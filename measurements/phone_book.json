@@ -1,11 +1,13 @@
 [
   {
     "name":   "KZ",
-    "phones": [ {"name":"ED Special Edition","file":"KZ ED"}],
-    "phones": [ {"name":"x Crinacle CRN","file":"KZ CRN"}],
-    "phones": [ {"name":"EDX","file":"KZ EDX"}],
-    "phones": [ {"name":"ES4","file":"KZ ES4"}],
-    "phones": [ {"name":"ZSN Pro","file":"KZ ZSN Pro"}]
+    "phones": [ 
+    {"name":"ED Special Edition","file":"KZ ED"},
+    {"name":"x Crinacle CRN","file":"KZ CRN"},
+    {"name":"EDX","file":"KZ EDX"},
+    {"name":"ES4","file":"KZ ES4"},
+    {"name":"ZSN Pro","file":"KZ ZSN Pro"}
+  ]
               
   }
 ]
