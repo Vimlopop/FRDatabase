@@ -13,5 +13,17 @@
     "phones": [ {"name":"T1","file":"Tin Hifi T1"},
                 {"name":"T3","file":"Tin Hifi T3"}
               ]           
+  },
+  {
+    "name":   "AKG",
+    "phones": [ {"name":"Pack-in earphones","file":"AKG Pack-in Syndrome"}
+              ]           
+  },
+  {
+    "name":   "Random chi-fi",
+    "phones": [ {"name":"hifi","file":"Hifi"},
+                {"name":"Pink Sparklies","file":"Pink Sparklies"},
+                {"name":"Huadelai","file":"Huadelai"}
+              ]           
   }
 ]
