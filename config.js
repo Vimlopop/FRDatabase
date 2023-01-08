@@ -26,7 +26,7 @@ const init_phones = ["HTH67"],                      // Optional. Which graphs to
       headerHeight = '0px',                         // Optional. If expandable=true, determines how much space to leave for the parent page header
       darkModeButton = true,                        // Adds a "Dark Mode" button the main toolbar to let users set preference
       targetDashed = true,                         // If true, makes target curves dashed lines
-      targetColorCustom = true,                    // If false, targets appear as a random gray value. Can replace with a fixed color value to make all targets the specified color, e.g. "black"
+      targetColorCustom = false,                    // If false, targets appear as a random gray value. Can replace with a fixed color value to make all targets the specified color, e.g. "black"
       labelsPosition = "default",                   // Up to four labels will be grouped in a specified corner. Accepts "top-left," bottom-left," "bottom-right," and "default"
       stickyLabels = false,                         // "Sticky" labels 
       analyticsEnabled = false;                     // Enables Google Analytics 4 measurement of site usage
