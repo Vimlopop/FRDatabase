@@ -20,6 +20,21 @@
               ]           
   },
   {
+    "name":   "Moondrop",
+    "phones": [ {"name":"Quarks","file":"Moondrop Quarks"}
+              ]           
+  },
+  {
+    "name":   "Panasonic",
+    "phones": [ {"name":"Ergofit","file":"Panasonic Ergofit"}
+              ]           
+  },
+  {
+    "name":   "Skatolly",
+    "phones": [ {"name":"X2","file":"Skatolly X2"}
+              ]           
+  },
+  {
     "name":   "Random chi-fi",
     "phones": [ {"name":"hifi","file":"Hifi"},
                 {"name":"Pink Sparklies","file":"Pink Sparklies"},
