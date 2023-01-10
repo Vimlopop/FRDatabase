@@ -11,6 +11,8 @@
   {
     "name":   "Tin Hifi",
     "phones": [ {"name":"T1","file":"Tin Hifi T1"},
+                {"name":"T2","file":"TinHifi T2"},
+                {"name":"T2 - Foam tips","file":"TinHifi T2 Foam"},
                 {"name":"T3","file":"Tin Hifi T3"}
               ]           
   },
