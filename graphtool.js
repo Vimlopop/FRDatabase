@@ -37,7 +37,7 @@ doc.html(`
           <span>Zoom:</span>
           <button>Bass</button>
           <button>Mids</button>
-          <button>Treble</button>
+          <button>Reliable</button>
         </div>
 
         <div class="normalize">
@@ -255,7 +255,7 @@ let line = d3.line()
 
 // Range buttons
 let selectedRange = 3; // Full range
-let ranges = [[20,400],[100,4000],[1000,20000], [20,20000]],
+let ranges = [[20,400],[100,4000],[20,11000], [20,20000]],
     edgeWs = [[fW,fWm],[fWm,fWm],[fWm,fW],[fW,fW]];
 let rangeSel = doc.select(".zoom").selectAll("button");
 rangeSel.on("click", function (_,i) {
