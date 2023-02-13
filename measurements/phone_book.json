@@ -24,7 +24,8 @@
   {
     "name":   "Moondrop",
     "phones": [ {"name":"Quarks","file":"Moondrop Quarks"},
-                {"name":"Aria","file":"Moondrop Aria"}
+                {"name":"Aria","file":"Moondrop Aria"},
+                {"name":"Chu","file":"Moondrop Chu"}
               ]           
   },
   {
